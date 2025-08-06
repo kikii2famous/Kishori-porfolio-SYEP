@@ -3,7 +3,7 @@ padding: 0; box-sizing: border-box;
 }
 
 body{
-background-color: azure;
+background-color:lightpink;
 text-align: center; line-height-step: 2.2;
 line-height-step: 2.2;
 }
@@ -18,6 +18,10 @@ line-height-step: 2.2;
 }
 
 .section h2{
+    font-size: 37px;
+}
+
+hero h2{
     font-size: 37px;
 }
 
